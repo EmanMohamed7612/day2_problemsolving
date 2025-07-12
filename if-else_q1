@@ -1,0 +1,17 @@
+//q1
+#include <iostream>
+using namespace std;
+int main()
+{
+   int a,b;
+   cout<<"enter the first number : ";
+   cin>>a;
+   cout<<"enter the second number : ";
+   cin>>b;
+   if(a==b)
+   cout<<"the numbers are eqel";
+   else
+   cout<<"the numbers are not  eqel";
+
+    return 0;
+}
